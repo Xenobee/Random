@@ -1,0 +1,7 @@
+curl -X POST \
+  https://api.instagram.com/oauth/access_token \
+  -F client_id=371393264634992 \
+  -F client_secret=4d4572394b2a66d344cb81d5d9215377 \
+  -F grant_type=authorization_code \
+  -F redirect_uri=https://insightsdoor.com/ \
+  -F code=AQAFajJWseQ_Wv1WYIrNaDCuvLWf7lra0mJyNpK_6OgwS2AVxlSZhbII3jwKksc7uT4Jtnxsx21IaCYIxy6yVHGej-uj8-S7mLD12FYS_tPIuoIEQ7CS-AMO41Y_rPOvR71Ttx8aFaicmu9jVJzzq7Z_Aud4ea12oHNv-YSvQy0JlI2QcVJH2SNm76FdTmfUvFSj84dbxBEl1JVGXuzvUzTaVRqHmHM1wtOe6gBNML_31w#_
